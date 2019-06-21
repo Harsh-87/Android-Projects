@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/text_to_speech"
+            android:title="Text To Speech" />
+        <item
+            android:id="@+id/maps"
+            android:title="Maps Activity" />
+        <item
+            android:id="@+id/recycler"
+            android:title="Recycler Activity" />
+    </group>
+
+
+</menu>
