@@ -13,6 +13,9 @@
         <item
             android:id="@+id/recycler"
             android:title="Recycler Activity" />
+        <item
+            android:id="@+id/bottle_game"
+            android:title="Bottle Game" />
     </group>
 
 

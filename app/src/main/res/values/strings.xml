@@ -14,4 +14,7 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="title_activity_maps">Map</string>
+    <string name="ClientId">726234783660-6ipiq4c7528fa7011af44bilaco18k2j.apps.googleusercontent.com</string>
+    <string name="ClientSecret">K__H9gGvTWbXdVdB4Gv2vpMi</string>
+
 </resources>
